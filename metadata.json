@@ -1,0 +1,6 @@
+{
+  "name": "Meridian News Network",
+  "description": "Global 24/7 broadcast journalism, breaking news dispatches, live stream coverage, investigative reporting, and financial markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
